@@ -1,0 +1,1 @@
+An angular app with SQL Server as backend db.
